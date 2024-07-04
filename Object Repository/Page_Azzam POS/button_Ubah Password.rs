@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Ubah Password</name>
+   <tag></tag>
+   <elementGuidId>b2097110-6b88-4305-a84e-a11aa84d7385</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='submit']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-primary</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Ubah Password&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>95ef4074-daf5-4fed-ba8f-3d3c15a2123a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>647b2889-7cd8-4721-9192-a12ca14da9e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary</value>
+      <webElementGuid>4b9e9928-72cd-4dc9-80a5-61d75583af10</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Ubah Password </value>
+      <webElementGuid>d1023b44-86f0-4941-be57-5fa021ebe545</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/app-auth-layout[1]/app-reset-password[1]/div[@class=&quot;auth-fluid&quot;]/div[@class=&quot;auth-fluid-right d-block text-center&quot;]/div[@class=&quot;account-pages&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;rounded bg-white p-3&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 col-md-6&quot;]/div[@class=&quot;card-right bg-light&quot;]/form[@class=&quot;mt-4 ng-dirty ng-touched ng-valid&quot;]/div[@class=&quot;d-grid mb-0 text-center&quot;]/button[@class=&quot;btn btn-primary&quot;]</value>
+      <webElementGuid>876d96c5-ce82-48f0-aefb-8c04d0c0b60f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='submit']</value>
+      <webElementGuid>f392bfc9-e4dc-46c7-a83f-bbb3bbfc083d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/following::button[1]</value>
+      <webElementGuid>8880191f-9aa9-4d8d-974b-8f45d7f35114</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/following::button[1]</value>
+      <webElementGuid>ea3d45e3-a632-457f-bdfa-ce6480c9ad6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Ubah Password']/parent::*</value>
+      <webElementGuid>dff016cb-44a9-4ad2-8faa-5235bc0ced49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>a2987abb-6b9d-4568-b4cc-2d6fe9a3d063</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and (text() = ' Ubah Password ' or . = ' Ubah Password ')]</value>
+      <webElementGuid>96e4f700-20f3-46e4-9412-cfb8c531a686</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

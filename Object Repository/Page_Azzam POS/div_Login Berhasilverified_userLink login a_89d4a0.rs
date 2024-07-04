@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Login Berhasilverified_userLink login a_89d4a0</name>
+   <tag></tag>
+   <elementGuidId>4a9ddabf-ce62-4c4d-8424-68235470255b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-dialog-container[@id='mat-dialog-0']/app-login-telegram-dialog/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.shared-dialog</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Login Berhasilverified_userLink login akan dikirimkan ke akun telegram andaSilah&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>809b6885-9f28-4e00-b3e9-0ebbb0f84d72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>shared-dialog</value>
+      <webElementGuid>460324b0-7d59-4c71-a8f2-8edf3db9419d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Login Berhasilverified_userLink login akan dikirimkan ke akun telegram andaSilahkan cek pesan telegram dari Azzam Kita!Kembali</value>
+      <webElementGuid>081c9ce8-dde2-4e98-871a-26401a9a33b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-dialog-0&quot;)/app-login-telegram-dialog[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;shared-dialog&quot;]</value>
+      <webElementGuid>f6507e9d-3040-4ced-aeab-af4d1f5f45c3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-dialog-container[@id='mat-dialog-0']/app-login-telegram-dialog/div/div</value>
+      <webElementGuid>58427c9c-7740-4fac-9968-69828838b015</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Next'])[1]/following::div[9]</value>
+      <webElementGuid>29d11294-9789-48df-b7e0-7b2d9ceb4b6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Previous'])[1]/following::div[9]</value>
+      <webElementGuid>2fc9f82b-3c58-4baa-a5bd-ffc5b7a0fc35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-login-telegram-dialog/div/div</value>
+      <webElementGuid>b735d9d0-8c0b-479a-a50a-f04b7eb5a5a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Login Berhasilverified_userLink login akan dikirimkan ke akun telegram andaSilahkan cek pesan telegram dari Azzam Kita!Kembali' or . = 'Login Berhasilverified_userLink login akan dikirimkan ke akun telegram andaSilahkan cek pesan telegram dari Azzam Kita!Kembali')]</value>
+      <webElementGuid>d5b89d95-d704-47ba-ae15-0c0f02f65e61</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

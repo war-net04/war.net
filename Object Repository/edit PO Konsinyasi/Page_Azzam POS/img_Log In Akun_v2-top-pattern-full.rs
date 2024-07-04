@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Log In Akun_v2-top-pattern-full</name>
+   <tag></tag>
+   <elementGuidId>2d7692c7-0f73-456d-a83b-e53cd3e34ec8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[@alt='top full']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.v2-top-pattern-full</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=img[name=&quot;top full&quot;i] >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>7496c514-045d-423b-b6e1-b88ea2fe0c2d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/assets/images/top-adha.png</value>
+      <webElementGuid>0546cfdf-92f8-42f3-a253-cb58495ba220</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>top full</value>
+      <webElementGuid>90b0d00e-46a9-43d6-8420-5aee547c3d1f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>v2-top-pattern-full</value>
+      <webElementGuid>be2335fa-b8a6-4fdc-98ae-da4a45a95985</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/app-auth-layout[1]/app-login2[1]/app-account2-layout[1]/div[@class=&quot;auth-fluid&quot;]/div[@class=&quot;auth-fluid-form-box align-items-center justify-content-center d-flex&quot;]/img[@class=&quot;v2-top-pattern-full&quot;]</value>
+      <webElementGuid>4f5e720f-6609-446d-ac01-eb9f6a1a352e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='top full']</value>
+      <webElementGuid>bf8accce-9ed9-4c28-b261-0b00411d628b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//img</value>
+      <webElementGuid>8dbd1b08-5be1-4e39-849c-b166233a2095</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/assets/images/top-adha.png' and @alt = 'top full']</value>
+      <webElementGuid>3e4b6440-f324-4199-ac23-abda8aad8f9d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

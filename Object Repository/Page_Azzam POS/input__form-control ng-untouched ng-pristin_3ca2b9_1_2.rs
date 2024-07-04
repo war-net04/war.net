@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input__form-control ng-untouched ng-pristin_3ca2b9_1_2</name>
+   <tag></tag>
+   <elementGuidId>a610d17c-d77e-463c-8389-0c5cf480386e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@name=''])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.form-control.ng-untouched.ng-pristine.ng-invalid</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=textbox[name=&quot;Konfirmasi Password&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>6c0101d2-c874-4e07-8ed8-4c461410b41b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control ng-untouched ng-pristine ng-invalid</value>
+      <webElementGuid>3db4917a-14cd-457d-bcb6-931634c12748</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Konfirmasi Password</value>
+      <webElementGuid>b086a1eb-6161-47b2-ac05-10a658ca9925</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocomplete</name>
+      <type>Main</type>
+      <value>off</value>
+      <webElementGuid>94704f17-5d06-4377-a28e-a45cb4e7160a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>password</value>
+      <webElementGuid>fe86be63-39aa-497b-b342-2ef121f0488d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/app-auth-layout[1]/app-reset-password[1]/div[@class=&quot;auth-fluid&quot;]/div[@class=&quot;auth-fluid-right d-block text-center&quot;]/div[@class=&quot;account-pages&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;rounded bg-white p-3&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 col-md-6&quot;]/div[@class=&quot;card-right bg-light&quot;]/form[@class=&quot;mt-4 ng-untouched ng-invalid ng-dirty&quot;]/div[@class=&quot;mb-3&quot;]/app-input-form[1]/div[@class=&quot;form-group mb-cos&quot;]/div[@class=&quot;input-group input-group-merge&quot;]/input[@class=&quot;form-control ng-untouched ng-pristine ng-invalid&quot;]</value>
+      <webElementGuid>af5760af-505c-4976-b2c4-01adde0b96ba</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@name=''])[2]</value>
+      <webElementGuid>1408400b-3975-4905-a22d-32ae8e3bc8c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/app-input-form/div/div/input</value>
+      <webElementGuid>62590599-9635-4752-9991-f28f42464e10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@placeholder = 'Konfirmasi Password' and @type = 'password']</value>
+      <webElementGuid>bcc5cd7b-19da-4289-b486-e16b83b1b93a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

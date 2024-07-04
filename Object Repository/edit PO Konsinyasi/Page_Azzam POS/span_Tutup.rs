@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Tutup</name>
+   <tag></tag>
+   <elementGuidId>8239b40e-3057-49c6-aef2-a428cfa4304f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Tidak Boleh Edit Produk Penjualan Konsinyasi'])[1]/following::span[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.mat-focus-indicator.btn-goback.mat-raised-button.mat-button-base.cdk-focused.cdk-program-focused > span.mat-button-wrapper</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Tutup&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e6760a90-6405-4a88-b5b2-2c24b00a39ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-button-wrapper</value>
+      <webElementGuid>b690370a-ce5e-4a90-9ca4-47b7ae1fcbde</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tutup</value>
+      <webElementGuid>bd0b2df7-a6ba-4e8f-a858-82d34edd179c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;mat-typography modal-open&quot;]/ngb-modal-window[@class=&quot;d-block modal fade show&quot;]/div[@class=&quot;modal-dialog modal-dialog-centered modal-md&quot;]/div[@class=&quot;modal-content&quot;]/app-error-dialog[1]/div[@class=&quot;row&quot;]/div[@class=&quot;shared-dialog text-center&quot;]/div[@class=&quot;shared-dialog-action float-right&quot;]/button[@class=&quot;mat-focus-indicator btn-goback mat-raised-button mat-button-base cdk-focused cdk-program-focused&quot;]/span[@class=&quot;mat-button-wrapper&quot;]</value>
+      <webElementGuid>084b318e-8712-483f-b0f1-de3f3d6331ff</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tidak Boleh Edit Produk Penjualan Konsinyasi'])[1]/following::span[1]</value>
+      <webElementGuid>8f02a7d9-2176-4c54-b0d4-ae4733560381</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Informasi'])[1]/following::span[1]</value>
+      <webElementGuid>2dbf4021-7be2-4b2e-a897-62c4c3ab0b44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Tutup']/parent::*</value>
+      <webElementGuid>f864ebc0-725e-4831-b24d-9183a87596d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button/span</value>
+      <webElementGuid>8b4f810a-e4c7-44ea-8d0b-1cffb34473f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Tutup' or . = 'Tutup')]</value>
+      <webElementGuid>56ee27e7-2924-4739-95ce-935bb6a80bb3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

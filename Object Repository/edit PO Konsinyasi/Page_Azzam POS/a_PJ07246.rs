@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_PJ07246</name>
+   <tag></tag>
+   <elementGuidId>ffec56c2-ee0f-4d12-b18d-5e408300f09b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ngx-datatable[@id='datatable-id']/div/datatable-body/datatable-selection/datatable-scroller/datatable-row-wrapper[2]/datatable-body-row/div[2]/datatable-body-cell[2]/div/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>datatable-body-row.datatable-body-row.datatable-row-odd.ng-star-inserted > div.datatable-row-center.datatable-row-group.ng-star-inserted > datatable-body-cell.datatable-body-cell.sort-active.ng-star-inserted > div.datatable-body-cell-label > div.d-flex.flex-column.justify-content-start.position-relative.h-100.ng-star-inserted > a.link-detail.text-primary.cursor-pointer.m-0</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;PJ07246&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>b0057fb6-57ad-42aa-a930-8a109f420f3d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>link-detail text-primary cursor-pointer m-0</value>
+      <webElementGuid>53dc4e10-45f0-4f16-909c-e881479920ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/pos/transaksi/penjualan/detail/98c674cfc9e84a94ad07c4c737ed7ddd</value>
+      <webElementGuid>f1dd07f7-96f1-47d2-990f-fd9aec447c7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> PJ07246 </value>
+      <webElementGuid>2ea4a0db-30ed-4daf-84c9-fd4d34a45ae9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;datatable-id&quot;)/div[@class=&quot;visible&quot;]/datatable-body[@class=&quot;datatable-body&quot;]/datatable-selection[1]/datatable-scroller[@class=&quot;datatable-scroll ng-star-inserted&quot;]/datatable-row-wrapper[@class=&quot;datatable-row-wrapper ng-star-inserted&quot;]/datatable-body-row[@class=&quot;datatable-body-row datatable-row-odd ng-star-inserted&quot;]/div[@class=&quot;datatable-row-center datatable-row-group ng-star-inserted&quot;]/datatable-body-cell[@class=&quot;datatable-body-cell sort-active ng-star-inserted&quot;]/div[@class=&quot;datatable-body-cell-label&quot;]/div[@class=&quot;d-flex flex-column justify-content-start position-relative h-100 ng-star-inserted&quot;]/a[@class=&quot;link-detail text-primary cursor-pointer m-0&quot;]</value>
+      <webElementGuid>a683b6fb-741a-4129-8d04-7aaed9ec4d85</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ngx-datatable[@id='datatable-id']/div/datatable-body/datatable-selection/datatable-scroller/datatable-row-wrapper[2]/datatable-body-row/div[2]/datatable-body-cell[2]/div/div/a</value>
+      <webElementGuid>487ed3fd-f478-488e-a9a3-bf45f479edcd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'PJ07246')]</value>
+      <webElementGuid>a613db6c-0594-40e8-b083-9efabe71264b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total (Rp)'])[1]/following::a[1]</value>
+      <webElementGuid>d0bfb90e-0afa-4706-a800-b6c159439f65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[1]/following::a[1]</value>
+      <webElementGuid>2eb568cc-2ed8-462c-b7db-bbbfedee5cd6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KS062426'])[1]/preceding::a[1]</value>
+      <webElementGuid>65543704-da95-434c-8966-2b13b2ec16cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Asek Kons'])[1]/preceding::a[1]</value>
+      <webElementGuid>829f2244-3da1-4f4c-9d36-f92887123d2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='PJ07246']/parent::*</value>
+      <webElementGuid>3543bda5-1654-495d-9387-b7e1fb0397cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/pos/transaksi/penjualan/detail/98c674cfc9e84a94ad07c4c737ed7ddd')]</value>
+      <webElementGuid>fbfb1037-8abe-4253-9865-e335bbc108b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//datatable-row-wrapper[2]/datatable-body-row/div[2]/datatable-body-cell[2]/div/div/a</value>
+      <webElementGuid>891241e7-2f85-49be-860f-272726699e79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/pos/transaksi/penjualan/detail/98c674cfc9e84a94ad07c4c737ed7ddd' and (text() = ' PJ07246 ' or . = ' PJ07246 ')]</value>
+      <webElementGuid>9ec2aa0c-c9fc-46d3-8ee9-d493d55f57b8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

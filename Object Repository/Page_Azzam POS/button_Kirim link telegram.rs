@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Kirim link telegram</name>
+   <tag></tag>
+   <elementGuidId>dd2b9feb-e8b0-469a-9e8c-bf95c09d4d0e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='submit']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-primary</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Kirim link telegram&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>3f17979a-ef7e-40e6-aff2-555ca4a5e13a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>5fa5b9e6-dc62-4c42-a5aa-f579029208b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary</value>
+      <webElementGuid>38c200da-ca27-4be6-92e2-9d58564cfca8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Kirim link telegram </value>
+      <webElementGuid>70ddf91d-68a6-4087-9507-8547b1094bce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/app-auth-layout[1]/app-forgot-password[1]/div[@class=&quot;auth-fluid&quot;]/div[@class=&quot;auth-fluid-right d-block text-center&quot;]/div[@class=&quot;account-pages&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;rounded bg-white p-3&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 col-md-6&quot;]/div[@class=&quot;card-right bg-light&quot;]/form[@class=&quot;mt-4 ng-dirty ng-valid ng-touched&quot;]/div[@class=&quot;d-grid mb-0 text-center&quot;]/button[@class=&quot;btn btn-primary&quot;]</value>
+      <webElementGuid>6b816a8e-c5f3-4b1f-b33a-764d5eb30e92</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='submit']</value>
+      <webElementGuid>eeb59fdb-5793-4b85-bc99-36c2a5c5f57e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/following::button[1]</value>
+      <webElementGuid>ee6bec96-b9f9-4670-9936-214b279c5e2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reset Password'])[1]/following::button[1]</value>
+      <webElementGuid>eefceb44-62e9-409d-a348-b45c73e8e394</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Kirim link telegram']/parent::*</value>
+      <webElementGuid>b8fc4b51-5b60-4ad4-bb5d-b1c7e019aad5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>32f4edcb-2f65-4e29-85a0-b59a5ef91038</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and (text() = ' Kirim link telegram ' or . = ' Kirim link telegram ')]</value>
+      <webElementGuid>d4b4766d-e372-4422-aed1-0e9c4e7fb611</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
